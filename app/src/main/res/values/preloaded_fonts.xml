@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/andika_new_basic</item>
+        <item>@font/archivo_black</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/rozha_one</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

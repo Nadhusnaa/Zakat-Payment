@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#68C6A1"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="300dip"
+        android:layout_marginRight="10dip"
+        android:background="#70BBCD"
+        android:fontFamily="@font/luckiest_guy"
+        android:lineSpacingExtra="4sp"
+        android:text="Welcome To Our Zakat Payment"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textColorHint="#000000"
+        android:textSize="50sp"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="187dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="348dp"
+        android:layout_height="365dp"
+        android:layout_marginLeft="30dip"
+        android:layout_marginTop="1dip"
+        android:layout_marginRight="20dip"
+        android:longClickable="false"
+        android:visibility="visible"
+        app:srcCompat="@drawable/zakat_2_removebg_preview" />
+
+</RelativeLayout>
